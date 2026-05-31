@@ -1,0 +1,8 @@
+smart-energy-platform/
+├── .github/workflows/       # GitHub Actions CI/CD配置
+├── data_service/            # FastAPI核心服务
+├── analyst_tool/            # Streamlit应用
+├── web_app/                 # React应用
+├── device_simulator/        # 设备模拟与Matter桥接
+├── docker-compose.yml       # 服务编排
+└── README.md
